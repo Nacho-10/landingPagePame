@@ -1,0 +1,12 @@
+.imagen-container {
+    max-width: 400px;
+    
+    
+}
+
+.imagen {
+    max-width: 300px;
+    background-color: #4361ee;
+    border-radius: 30% 30% 00% 00%;
+}
+

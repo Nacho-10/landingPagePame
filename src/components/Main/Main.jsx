@@ -11,10 +11,9 @@ const Main = () => {
       <MainIcons />
       <article>
         <MainTitle />
-      </article>
-      <image>
         <MainImage />
-      </image>
+      </article>
+      <image></image>
     </main>
   );
 };

@@ -1,5 +1,5 @@
 section {
-    margin-top: 10rem;
+    margin-top: 7rem;
 }
 
 section .titles {
@@ -25,7 +25,7 @@ section p{
 .button {
     padding: 18px 25px;
     border: none;
-    background-color: rgb(180, 190, 100);
+    background-color: #4361ee;
     color: #fff;
     display: flex;
     align-items: center;
