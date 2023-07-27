@@ -1,0 +1,14 @@
+main {
+    height: calc(100vh - 100px);
+    position: relative;
+}
+
+main article {
+    border: 1px solid;
+    max-width: 900px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+

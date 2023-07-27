@@ -1,0 +1,35 @@
+section {
+    margin-top: 10rem;
+}
+
+section .titles {
+    line-height: 0;
+}
+
+section .titles h1{
+    font-size: 4rem;
+}
+
+section .titles h5{
+    font-size: 1.5rem;
+    color:rgb(150, 182, 250);
+    font-weight: 400;
+}
+
+section p{
+    font-size: 1rem;
+    max-width: 380px;
+    color:gray;
+}
+
+.button {
+    padding: 18px 25px;
+    border: none;
+    background-color: rgb(180, 190, 100);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 1.1rem;
+    border-radius: 20px;
+}
