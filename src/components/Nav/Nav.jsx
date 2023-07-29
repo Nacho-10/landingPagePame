@@ -12,12 +12,21 @@ const Nav = () => {
             <li>Habilidades</li>
             <li>Servicios</li>
             <li>Contactame</li>
-            <li classname="mood"><SocialIconsMood/></li>
+            <li className="mood"><SocialIconsMood/></li>
             <li></li>
         </ul>
     </nav>
   )
 }
 
+
 export default Nav;
+
+const MoodDay = document.querySelector(".mood");
+const MoodNight = document.querySelector("#body");
+
+MoodDay.addEventListener('click' , () => {
+  MoodNight.classList.toggle('moodChange')
+});
+
 

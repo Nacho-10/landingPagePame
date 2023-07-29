@@ -16,3 +16,10 @@ nav ul .mood{
 
 }
 
+.moodChange {
+    background-color: #141a37;
+}
+
+.moodChange nav ul li {
+    color: #788cc1;
+}
